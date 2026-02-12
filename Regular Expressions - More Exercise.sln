@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Rage Quit", "2. Rage Qui
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Post Office", "3. Post Office\3. Post Office.csproj", "{F52AB3A7-F927-4328-8EE2-9B17710C5DD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Santa's Secret Helper", "4. Santa's Secret Helper\4. Santa's Secret Helper.csproj", "{96D1444C-93EC-4B8E-9D16-5012986D54E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F52AB3A7-F927-4328-8EE2-9B17710C5DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F52AB3A7-F927-4328-8EE2-9B17710C5DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F52AB3A7-F927-4328-8EE2-9B17710C5DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D1444C-93EC-4B8E-9D16-5012986D54E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D1444C-93EC-4B8E-9D16-5012986D54E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D1444C-93EC-4B8E-9D16-5012986D54E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D1444C-93EC-4B8E-9D16-5012986D54E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
